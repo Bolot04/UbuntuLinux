@@ -81,7 +81,10 @@ def main(page: ft.Page):
             theme_button,
             delet_button
         ])
+
     )
+
+
 
 ft.app(target=main, )
 
